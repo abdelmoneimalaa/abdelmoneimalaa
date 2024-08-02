@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm AbdelMoneim</h1>
 <h3 align="center">A passionate Industrial Automation and Robotics Engineer</h3>
 
-- 🌱 I’m currently learning **Robotics / industrial automation / devops /embedded**
+- 🌱 I’m currently learning **Robotics / industrial automation / autonomous systems /AI&ML /embedded**
 
 - 👯 I’m looking to collaborate on **Robotics / ML**
 

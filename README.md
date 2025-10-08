@@ -13,6 +13,6 @@
 <a href="https://linkedin.com/in/abdel-moneim-alaa-8560321b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdel-moneim-alaa-8560321b1" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelmoneimalaa&show_icons=true&locale=en" alt="abdelmoneimalaa" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelmoneimalaa&show_icons=true&locale=en" alt="abdelmoneimalaa" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelmoneimalaa&" alt="abdelmoneimalaa" /></p> -->
